@@ -2,7 +2,7 @@
     {
         "linter": {
             "name": "oelint-adv",
-            "path": "/usr/bin/oelint-adv",
+            "path": "/usr/local/bin/oelint-adv",
             "args": ["--rulefile=/opt/nittymcpick/oelint-rules.json"],
             "ret_regex": "^(?P<file>.*):(?P<line>\\d+):(?P<severity>(warning|error|info)):(?P<id>[a-z\\.]*):(?P<message>.*)$",
             "tweaks": {
