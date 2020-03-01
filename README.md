@@ -15,7 +15,7 @@ For details see [oelint-adv](https://github.com/priv-kweihmann/oelint-adv)
 ## Difference to standard nittymcpick
 
 * the linter configuration is fixed
-  * this can be overriden by running the docker container with a custom command
+  * this can be overridden by running the docker container with a custom command
 
 ## Prepared docker container
 
